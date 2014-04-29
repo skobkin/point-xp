@@ -1,15 +1,15 @@
 Description
 ----
-Juick Crossposter automatically posts title and link of your new WP posts to the Juick.com microblogging service.
+Point.im Crossposter automatically posts your new WP posts to the Point.im microblogging service.
 
 [XMPP Enabled](http://wordpress.org/extend/plugins/xmpp-enabled/) plugin is required
 
 Plugin info
 ----
 
-Contributors: sandfox
+Contributors: sandfox, skobkin
 
-Tags: microblogging, juick, jabber
+Tags: microblogging, point.im, jabber
 
 Requires at least: 3.0
 
@@ -17,20 +17,23 @@ Tested up to: 3.9
 
 Stable tag: trunk
 
-Crosspost your Wordpress posts to Juick.com
+Crosspost your Wordpress posts to Point.im
 
 Installation
 ----
 1. Install the [XMPP Enabled](http://wordpress.org/extend/plugins/xmpp-enabled/) plugin
-1. Upload `juick-xp` folder to the `/wp-content/plugins/` directory
+1. Upload `point-xp` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 Frequently Asked Questions
 ----
-Still no questions :) **[Ask one](https://github.com/sandfox-im/juick-xp/issues/new)**
+Still no questions :) **[Ask one](https://github.com/skobkin/point-xp/issues/new)**
 
 Changelog
 --
+
+= 0.4 =
+Forked and rewrited for Point.im
 
 = 0.3.1 =
 * changed westland-avs.info and sand-fox.com to sandfox.org

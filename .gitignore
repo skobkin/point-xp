@@ -1,3 +1,4 @@
 /vendor/
 *.iml
 *.ipr
+/nbproject/private/
